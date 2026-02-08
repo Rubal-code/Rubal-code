@@ -14,6 +14,21 @@ I focus on end-to-end ML workflows — from data cleaning, EDA, model building, 
 
 ---
 
+## 🔗 Code Snippets & Gists
+
+- 📈 **Stock Buy & Sell (One Transaction – Java)**  
+  Optimized O(n) solution using greedy approach  
+  👉 https://gist.github.com/Rubal-code/4046ebef087b267b78e2cc04d41c7cb6
+
+- 🧠 **DSA Problem Solving (Java)**  
+  Clean, interview-ready implementations with explanations  
+  👉 https://gist.github.com/Rubal-code/c69c15bb91e0a45ec6424a932adb6eb9
+
+- 🗄️ **SQL Important Queries**  
+  Frequently asked SQL queries for interviews  
+  👉 https://gist.github.com/Rubal-code/935058910316c207b67f9b00f2a6f188
+
+
 ## 🛠 Skills  
 ### **Programming & Tools**
 - Python  
