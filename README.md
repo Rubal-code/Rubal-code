@@ -1,4 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rubal-code&label=Profile%20Views&color=blue&style=flat)
+<img src="https://komarev.com/ghpvc/?username=Rubal-code&style=for-the-badge&color=orange" />
+
 
 # 👋 Hi, I'm Rubal Singh  
 ### Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer  
