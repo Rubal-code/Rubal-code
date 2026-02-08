@@ -1,5 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Rubal-code&label=Profile%20Views&color=blue&style=flat)
-<img src="https://komarev.com/ghpvc/?username=Rubal-code&style=for-the-badge&color=orange" />
+![Profile Views](https://komarev.com/ghpvc/?username=Rubal-code)
+![GitHub followers](https://img.shields.io/github/followers/Rubal-code?label=Followers&style=social)
 
 
 # 👋 Hi, I'm Rubal Singh  
