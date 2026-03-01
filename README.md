@@ -1,127 +1,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rubal-code)
+# 💫 About Me:
+Intro: "Hi! I'm a Data Scientist specializing in Deep Learning. I’m currently bridging the gap between high-performance modeling and scalable System Design to build production-ready AI."<br><br>🔭 I’m currently working on: Developing deep neural networks for [Insert specific field, e.g., Image Recognition/NLP] and optimizing inference latency.<br><br>👯 I’m looking to collaborate on: Open-source MLOps tools or distributed machine learning frameworks.<br><br>🤝 I’m looking for help with: Understanding high-availability architecture for real-time model serving.<br><br>🌱 I’m currently learning: System Design (Load balancing, Sharding, and Caching) to scale ML microservices.<br><br>💬 Ask me about: Backpropagation, CNNs vs. Transformers, or the trade-offs between SQL and NoSQL for data pipelines.<br><br>⚡ Fun fact: I spend more time naming my variables than I do training my models.
 
 
-# 👋 Hi, I'm Rubal Singh  
-### Aspiring Data Scientist | ML Engineer | System Design Learner  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rubal.kundra_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rubal-kundra) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rubal3232) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YTBGAMING) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rubal3232@gmail.com) 
 
-I’m a B.Tech CSE student passionate about **Data Science, Machine Learning, and scalable system design**.  
-I enjoy building **end-to-end solutions** — from data preprocessing and model training to deployment and system architecture.
-
----
-
-## 🔍 About Me  
-
-- 🌱 Currently learning **Machine Learning, Deep Learning & System Design**
-- 💡 Interested in **Predictive Modeling, NLP, Data Visualization, and scalable backend systems**
-- 🚀 Strong focus on **hands-on projects** and real-world problem solving
-- 📊 Love transforming raw data into actionable insights
-- 🧠 Believe in writing **clean, explainable, and efficient code**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rubal-code&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rubal-code&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubal-code&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Rubal-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 System Design (Actively Learning)
-
-I am building my foundation in **System Design** to complement my ML and backend skills.
-
-### 🔹 Concepts I’m Working On
-- High-Level Design (HLD)
-- Low-Level Design (LLD)
-- Scalability (Horizontal vs Vertical Scaling)
-- Load Balancing
-- Caching (Redis basics)
-- Database Design (SQL-focused)
-- REST APIs
-- Microservices basics
-- Reliability, Logging & Monitoring
-
-📌 Applying these concepts while building **ML-backed applications**.
-
----
-
-## 🔗 Code Snippets & Gists  
-
-- 📈 **Stock Buy & Sell (One Transaction – Java)**  
-  Optimized **O(n)** greedy solution with clean logic  
-  👉 https://gist.github.com/Rubal-code/4046ebef087b267b78e2cc04d41c7cb6
-
-- 🧠 **DSA Problem Solving (Java)**  
-  Interview-focused solutions with clarity and explanations  
-  👉 https://gist.github.com/Rubal-code/c69c15bb91e0a45ec6424a932adb6eb9
-
-- 🗄️ **SQL Important Queries**  
-  Frequently asked SQL queries for interviews  
-  👉 https://gist.github.com/Rubal-code/935058910316c207b67f9b00f2a6f188
-
----
-
-## 🛠️ Skills  
-
-### 🔹 Programming & Tools
-- Python, Java  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn  
-- Jupyter Notebook  
-- Git & GitHub  
-- SQL (Basics → Intermediate)
-
-### 🔹 Machine Learning
-- Supervised & Unsupervised Learning  
-- Data Preprocessing & Feature Engineering  
-- Model Evaluation (Accuracy, Precision, Recall, F1-score)  
-- Regression & Classification Models  
-
-### 🔹 Data Science
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- Basic NLP  
-
-### 🔹 Backend & System Concepts
-- REST APIs (Basics)
-- System Design Fundamentals
-- Model Deployment (Learning)
-
----
-
-## 📚 Currently Learning  
-
-- Advanced Machine Learning Algorithms  
-- Feature Engineering Techniques  
-- Logistic Regression, Decision Trees, SVM, Random Forest  
-- Neural Networks (Foundations)
-- **Model Deployment** using FastAPI / Streamlit  
-- **System Design** for scalable applications  
-
----
-
-## 💼 Projects  
-
-Some of my key projects include:
-
-- 🏠 **Real Estate Price Prediction**  
-  Regression model with an **interactive web UI**
-
-- 🚢 **Titanic Survival Prediction**  
-  End-to-end ML pipeline with evaluation
-
-- 🌾 **Agriculture Crop Prediction**  
-  ML-based recommendation system
-
-- 📊 **Exploratory Data Analysis Projects**  
-  Visualization-heavy insights on real datasets
-
-➡️ More projects coming soon — check pinned repositories!
-
----
-
-## 📫 Contact Me  
-
-- 📧 **Email:** rubal3232@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rubal-kundra-a1b687313  
-
----
-
-⭐ *Thanks for visiting my profile!*  
-I’m open to **internships, collaborations, and learning opportunities**.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
