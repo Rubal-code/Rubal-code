@@ -1,63 +1,12 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Rubal-code)
-# 💫 About Me:
-Intro: "Hi! I'm a Data Scientist specializing in Deep Learning. I’m currently bridging the gap between high-performance modeling and scalable System Design to build production-ready AI."<br><br>🔭 I’m currently working on: Developing deep neural networks for Image Recognition/NLP and optimizing inference latency.<br><br>👯 I’m looking to collaborate on: Open-source MLOps tools or distributed machine learning frameworks.<br><br>🤝 I’m looking for help with: Understanding high-availability architecture for real-time model serving.<br><br>🌱 I’m currently learning: System Design (Load balancing, Sharding, and Caching) to scale ML microservices.<br><br>💬 Ask me about: Backpropagation, CNNs vs. Transformers, or the trade-offs between SQL and NoSQL for data pipelines.<br><br>⚡ Fun fact: I spend more time naming my variables than I do training my models.
+Hi 👋, I'm Rubal Kundra
+An AI & Machine Learning Enthusiast
+Rubal-code
 
+🤠 About Me :
+👨‍💻 I build LLM-powered assistants, LangChain integrations, and multi-agent systems.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rubal.kundra_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rubal-kundra) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rubal3232) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ytbgaming4761) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rubal3232@gmail.com) 
+🔭 I work on AI applications, RAG systems, vector integrations, and end-to-end ML pipelines
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+🌱 Currently building and exploring Langgraph agents, vector indexes, and multi-agent planners
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) 
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
-
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white) 
-![LLM](https://img.shields.io/badge/LLM-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white) 
-![Groq](https://img.shields.io/badge/Groq-%2300FFB3.svg?style=for-the-badge&logo=lightning&logoColor=black) 
-
-![RNN](https://img.shields.io/badge/RNN-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![CNN](https://img.shields.io/badge/CNN-%2300C4CC.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
-![LSTM](https://img.shields.io/badge/LSTM-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white) 
-![ANN](https://img.shields.io/badge/ANN-%2331A8FF.svg?style=for-the-badge&logo=ai&logoColor=white) 
-![NLP](https://img.shields.io/badge/NLP-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white) 
-![BERT](https://img.shields.io/badge/BERT-%23FF9900.svg?style=for-the-badge&logo=google&logoColor=white) 
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-%23302E31.svg?style=for-the-badge&logo=obsstudio&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rubal-code&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=Rubal-code&theme=gotham)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubal-code&theme=gotham&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rubal-code&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 How to reach me: Mail: rubal3232@gmail.com  LinkedIn: https://www.linkedin.com/in/rubal-kundra
