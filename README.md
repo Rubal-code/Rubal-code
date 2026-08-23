@@ -13,5 +13,5 @@
   <a href="https://www.linkedin.com/in/rubal-kundra" target="_blank">LinkedIn</a>
 
   - Portfolio:
-  <a href="https://rubal-portfolio.lovable.app" target="_blank">Portfolio</a>
+  <a href="https://rubal-portfolio.lovable.app" target="_blank"></a>
 
