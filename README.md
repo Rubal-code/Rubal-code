@@ -12,3 +12,6 @@
   <a href="mailto:rubal3232@gmail.com" target="_blank">Mail</a>
   <a href="https://www.linkedin.com/in/rubal-kundra" target="_blank">LinkedIn</a>
 
+  - Portfolio:
+  <a href="https://rubal-portfolio.lovable.app" target="_blank">Portfolio</a>
+
